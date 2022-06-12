@@ -38,6 +38,11 @@ function App() {
                      con la parte de sistemas y de software, por ése tiempo salió una convocataria de MinTIC para capacitar programadores, y desde
                      allí me nació el gusto por lo relacionado al desarrollo web. Fin"
                      githubLink="" />
+
+        <SectionComp name="Mayer Santiago Beltran" 
+                     description=" Profesional en ingenieria industrial, en mi experiencia profesionel he desarrollado labores relacionadas a T.I lo que me ha llevado a trabajar en 
+                     entornos de desarrollo, puntualmente en desarrollo .NET. Desde alli mi interes en ampliar mis conocimientos como programador.Fin"
+                     githubLink="https://github.com/MayerSantiago" />
      
       </header>
     </div>
