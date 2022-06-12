@@ -26,7 +26,10 @@ function App() {
                      githubLink="" />
 
         <SectionComp name="Sandra Bustillo" 
-                     description="prueba"
+                     description="Tecnóloga en Administración Financiera y de Sistema, desarrollando programas
+                     administrativos, nómina, ventas y recursos humanos en PHP y framework Laravel a la medida para PYMES, Sitios Web.
+                     Me gusta y emociona aprender nuevas herramientas y lenguajes.                    
+                      "
                      githubLink="" />
 
         
