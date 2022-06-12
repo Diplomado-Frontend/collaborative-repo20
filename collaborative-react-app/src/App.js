@@ -15,7 +15,7 @@ function App() {
                      githubLink="https://github.com/IngJuanAyala" />
         
         <SectionComp name="Wisthong David Martinez Castro" 
-                     description="Estudiante de Ingeniera de Sistemas"
+                     description="Estudiante de Ingeniera de Sistemas,tengo conocimientos de Angular 2 y apasionado por aprender."
                      githubLink="" />
 
         <SectionComp name="Jesús Yancy" 
