@@ -25,14 +25,24 @@ function App() {
                      front-end para el análisis de datos y soluciones a través de estas herramientas."
                      githubLink="" />
 
-        <SectionComp name="Sandra Bustillo" 
-                     description="prueba"
+        <SectionComp name="Sandra Bustillo Casas" 
+                     description="Tecnóloga en Administración Financiera y de Sistema, desarrollando programas
+                     administrativos, nómina, ventas y recursos humanos en PHP y framework Laravel a la medida para PYMES, Sitios Web.
+                     Me gusta y emociona aprender nuevas herramientas y lenguajes.                    
+                      "
                      githubLink="" />
 
         
         <SectionComp name="Luis Enrique Chavez" 
-                     description="prueba"
+                     description="Profesional en administración de empresas, sin embargo en medio de las experiencia empecé a tener gran contacto
+                     con la parte de sistemas y de software, por ése tiempo salió una convocataria de MinTIC para capacitar programadores, y desde
+                     allí me nació el gusto por lo relacionado al desarrollo web. Fin"
                      githubLink="" />
+
+        <SectionComp name="Mayer Santiago Beltran" 
+                     description=" Profesional en ingenieria industrial, en mi experiencia profesionel he desarrollado labores relacionadas a T.I lo que me ha llevado a trabajar en 
+                     entornos de desarrollo, puntualmente en desarrollo .NET. Desde alli mi interes en ampliar mis conocimientos como programador.Fin"
+                     githubLink="https://github.com/MayerSantiago" />
      
       </header>
     </div>
