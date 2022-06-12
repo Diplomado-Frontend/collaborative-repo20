@@ -25,7 +25,7 @@ function App() {
                      front-end para el análisis de datos y soluciones a través de estas herramientas."
                      githubLink="" />
 
-        <SectionComp name="Sandra Bustillo" 
+        <SectionComp name="Sandra Bustillo Casas" 
                      description="Tecnóloga en Administración Financiera y de Sistema, desarrollando programas
                      administrativos, nómina, ventas y recursos humanos en PHP y framework Laravel a la medida para PYMES, Sitios Web.
                      Me gusta y emociona aprender nuevas herramientas y lenguajes.                    
