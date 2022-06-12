@@ -1,5 +1,16 @@
 # collaborative-repo20
-Proyecto inicial para conocer el trabajo colaborativo con varios miembros de un mismo equipo.
+Proyecto inicial para conocer el trabajo colaborativo con varios miembros de un mismo equipo:
+
+```
+- Sandra Bustillo Casas, 
+- Wisthong David Martinez Castro, 
+- Jesús Yancy, 
+- Farley Lopez Osorio,
+- Juan Ayala,
+- Luis Enrique Chavez Vergara,
+- Mayer Santiago Beltrán Romero 
+```
+
 
 ### Pre-requisitos 📋
 
