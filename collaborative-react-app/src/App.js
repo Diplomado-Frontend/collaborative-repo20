@@ -39,10 +39,15 @@ function App() {
                      allí me nació el gusto por lo relacionado al desarrollo web. Fin"
                      githubLink="" />
 
-<SectionComp name="Farley Lopez Osorio" 
-                     description="Diseñador Gráfico, con Diplomado de programación y desarrollo de aplicaciones Web."
-                     githubLink="https://github.com/farleyz11" />
-     
+        <SectionComp name="Mayer Santiago Beltran" 
+                     description=" Profesional en ingenieria industrial, en mi experiencia profesionel he desarrollado labores relacionadas a T.I lo que me ha llevado a trabajar en 
+                     entornos de desarrollo, puntualmente en desarrollo .NET. Desde alli mi interes en ampliar mis conocimientos como programador.Fin"
+                     githubLink="https://github.com/MayerSantiago" />
+
+        <SectionComp name="Farley Lopez Osorio" 
+                             description="Diseñador Gráfico, con Diplomado de programación y desarrollo de aplicaciones Web."
+                             githubLink="https://github.com/farleyz11" />
+
       </header>
     </div>
 
