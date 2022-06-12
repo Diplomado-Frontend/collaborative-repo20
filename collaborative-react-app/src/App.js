@@ -33,6 +33,10 @@ function App() {
         <SectionComp name="Luis Enrique Chavez" 
                      description="prueba"
                      githubLink="" />
+
+<SectionComp name="Farley Lopez Osorio" 
+                     description="Diseñador Gráfico, con Diplomado de programación y desarrollo de aplicaciones Web."
+                     githubLink="https://github.com/farleyz11" />
      
       </header>
     </div>
