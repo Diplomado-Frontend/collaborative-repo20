@@ -38,6 +38,10 @@ function App() {
                      con la parte de sistemas y de software, por ése tiempo salió una convocataria de MinTIC para capacitar programadores, y desde
                      allí me nació el gusto por lo relacionado al desarrollo web. Fin"
                      githubLink="" />
+
+<SectionComp name="Farley Lopez Osorio" 
+                     description="Diseñador Gráfico, con Diplomado de programación y desarrollo de aplicaciones Web."
+                     githubLink="https://github.com/farleyz11" />
      
       </header>
     </div>
