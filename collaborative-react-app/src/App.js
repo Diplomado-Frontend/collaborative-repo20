@@ -36,7 +36,7 @@ function App() {
         <SectionComp name="Luis Enrique Chavez" 
                      description="Profesional en administración de empresas, sin embargo en medio de las experiencia empecé a tener gran contacto
                      con la parte de sistemas y de software, por ése tiempo salió una convocataria de MinTIC para capacitar programadores, y desde
-                     allí me nació el gusto por lo relacionado al desarrollo web."
+                     allí me nació el gusto por lo relacionado al desarrollo web. Fin"
                      githubLink="" />
      
       </header>
